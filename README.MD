@@ -6,7 +6,7 @@
 <h2 align="center">Systems Engineering Student | Full Stack Developer | Cybersecurity & AI Enthusiast</h2>
 
 <p align="center">
-🚀 Open to Work • 📍 Cali, Colombia
+🚀 Open to Work • 📍 Buenaventura, Colombia
 </p>
 
 <p align="center">
