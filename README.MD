@@ -116,7 +116,7 @@ My objective is to join a development team where I can contribute, learn from re
 ## 📫 Contact
 
 <p align="center">
-📍 Cali, Colombia <br/>
+📍 Buenaventura, Colombia <br/>
 💼 Open to internships and junior developer roles <br/>
 </p>
 
